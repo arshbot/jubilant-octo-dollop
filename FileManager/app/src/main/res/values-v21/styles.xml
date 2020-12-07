@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="LightDarkActionBar" parent="Theme.AppCompat.Light.NoActionBar" >
+        <item name="android:colorPrimary">#ff5722</item>
+        <item name="android:colorPrimaryDark">#e64a19</item>
+        <item name="android:colorAccent">#ffb74d</item>
+        <item name="android:colorBackground">@android:color/white</item>
+        <item name="android:colorForeground">@android:color/black</item>
+        <item name="colorPrimary">#f4511e</item>
+        <item name="colorPrimaryDark">#bf360c</item>
+        <item name="colorAccent">#ffd740</item>
+    </style>
+</resources>

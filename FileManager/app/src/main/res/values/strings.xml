@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">File Manager</string>
+    <string name="mkdir">Create Folder</string>
+    <string name="dummy_text">Dummy Text</string>
+    <string name="up_btn_desc">Go Up a Folder</string>
+    <string name="mkdir_btn_desc">Create New Folder</string>
+    <string name="mkfile_btn_desc">Create New File</string>
+    <string name="app_folder">Go to App Folder</string>
+    <string name="view_file_info">View Info</string>
+    <string name="rename_menu_item">Rename</string>
+    <string name="delete_menu_item">Delete</string>
+    <string name="new_folder_dialog">Create Directory</string>
+    <string name="new_file_dialog">Create File</string>
+    <string name="rename_file_dialog">Rename File</string>
+    <string name="rename_folder_dialog">Rename Folder</string>
+    <string name="delete_file_dialog">Delete File</string>
+    <string name="delete_folder_dialog">Delete Folder</string>
+    <string name="name_input_hint">Enter name</string>
+    <string name="delete_confirm_prompt">Delete %1$s %2$s?</string>
+</resources>

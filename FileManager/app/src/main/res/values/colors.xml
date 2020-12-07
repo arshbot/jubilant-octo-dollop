@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F4511E</color>
+    <color name="colorPrimaryDark">#D84315</color>
+    <color name="colorAccent">#FFD740</color>
+    <color name="imageTint">#757575</color>
+    <color name="textViewTint">#BDBDBD</color>
+    <color name="imgButtonTint">#9E9E9E</color>
+    <color name="buttonTint">#FF9E80</color>
+</resources>
